@@ -28,7 +28,7 @@ module ForemanPluginTemplate
 
         # add menu entry
         menu :top_menu, :template,
-             url_hash: { controller: :'foreman_plugin_template/hosts', action: :new_action },
+             url_hash: { controller: :custom_hosts, action: :new_action },
              caption: 'ForemanPluginTemplate',
              parent: :hosts_menu,
              after: :hosts
