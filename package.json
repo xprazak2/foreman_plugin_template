@@ -1,0 +1,22 @@
+{
+  "name": "foreman_plugin_template",
+  "version": "0.0.1",
+  "description": "TODO",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TODO"
+  },
+  "author": "TODO",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "TODO"
+  },
+  "homepage": "TODO"
+}
